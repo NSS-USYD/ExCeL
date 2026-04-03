@@ -1,4 +1,4 @@
-# ExCeL: OpenOOD-Based Reproduction and Evaluation
+# ExCeL: Combined Extreme and Collective Logit Information for Out-of-Distribution Detection
 
 This repository provides our implementation pipeline for **ExCeL** under the **OpenOOD** benchmark setting.
 
