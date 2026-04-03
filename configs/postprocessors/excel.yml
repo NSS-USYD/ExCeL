@@ -1,0 +1,12 @@
+postprocessor:
+  name: excel
+  APS_mode: True
+  top_k: '@{dataset.num_classes}'
+  postprocessor_args:
+    a:   #0.8
+    upper:   # 5
+    reward:  # 10
+  postprocessor_sweep:
+    a: [0.8] 
+    upper: [5]
+    reward: [10]
